@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contains a command to clone a repository
+git clone < repository name >
