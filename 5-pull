@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contains the command to pull a file to the remote repository
+git pull < repository-url > 
