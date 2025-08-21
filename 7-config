@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a file that contains git configuration command
+git config --global user.name "kingdavz"
+git config --global user.name "daviduzoma2008@gmail.com"
